@@ -2,7 +2,7 @@ name: Fudan Daily
 
 on:
   schedule:
-    - cron: '15 23 * * *'
+    - cron: '30 22 * * *'
 
 jobs:
   build:
